@@ -23,8 +23,8 @@ if (string.toLowerCase() === string)
     {return 'YES INDEED!';
   }
 
- else ("I love you, Grandma."===string) {
-
-        return "I love you, too." ;
+ else ("I love you, Grandma."===string) 
+ {
+return "I love you, too." ;
     }
 }
