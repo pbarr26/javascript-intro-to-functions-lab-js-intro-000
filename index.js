@@ -21,7 +21,7 @@ if (string.toLowerCase() === string) {
 
 }  else if (string.toUpperCase() === string) {
     {   return 'YES INDEED!';
-     
+
  }
 
 } else ("I love you, Grandma."===string) {
